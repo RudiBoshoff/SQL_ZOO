@@ -8,7 +8,8 @@ WHERE name = 'Germany'
 -- Question 2
 SELECT name, population
 FROM world
-WHERE name IN ('Sweden', 'Norway', 'Denmark')
+WHERE name
+IN ('Sweden', 'Norway', 'Denmark')
 
 -- Question 3
 SELECT name, area
