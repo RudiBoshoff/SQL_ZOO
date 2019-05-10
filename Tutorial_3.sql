@@ -82,3 +82,13 @@ FROM nobel
 WHERE yr=1984
 ORDER BY subject IN ('Physics','Chemistry'),
          subject, winner
+
+
+-- Quiz
+1. E
+2. C
+3. B
+4. C
+5. C
+6. C
+7. D
